@@ -5,3 +5,9 @@
 
 
 # [Demo here](https://cromfr.github.io/revealjs-theme-material/)
+
+
+# Specific classes
+
+- `fixed-cards`: when applied to `.reveal>.slides` element, makes the cards keep the same height
+- `full-width`: makes the element take all available width in the card

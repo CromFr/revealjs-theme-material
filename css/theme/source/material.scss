@@ -37,6 +37,13 @@ $card_padding: 20px;
 @import "../template/theme";
 // ---------------------------------------------
 
+.reveal .slides.fixed-cards section{
+    height: 600px;
+}
+.reveal .slides.fixed-cards section.stack{
+    height: auto;
+}
+
 .reveal .slides section{
     background-color: $mainBackgroundColor;
 
